@@ -1,6 +1,6 @@
 # Agente de Consulta - Sistema de Reservas Solana
 
-Este proyecto es la entrega del Taller 1 del Advanced Bootcamp de Solana (WayLearn). Consiste en un agente de Inteligencia Artificial que se conecta a la red de Solana (Devnet) para consultar en lenguaje natural el estado de las cuentas de un programa de reservas de espacios.
+Este proyecto es la entrega del Taller 1 del Advanced Bootcamp de Solana [@WayLearnLatam.](https://github.com/WayLearnLatam). Consiste en un agente de Inteligencia Artificial que se conecta a la red de Solana (Devnet) para consultar en lenguaje natural el estado de las cuentas de un programa de reservas de espacios.
 
 ## 🧠 Arquitectura
 El agente utiliza `solana-agent-kit` para estructurar las herramientas y un modelo local (Qwen2.5 7B) ejecutado en LM Studio. 
